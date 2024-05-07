@@ -3,6 +3,7 @@
     "description": "Symfony Bridge for deployment on Google Cloud AppEngine",
     "type": "library",
     "require": {
+        "php": "^8.2",
         "symfony/http-kernel": "^7.0"
     },
     "license": "MIT",

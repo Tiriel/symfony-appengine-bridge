@@ -7,7 +7,7 @@ Currently very much a Work in Progress
 First, download the dependency:
 
 ```shell
-composer require tiriel/symfony-appengine-bridge
+composer require tiriel/appengine-bridge
 ```
 
 Then, replace the `BaseKernel` class in you `src/Kernel.php` file
