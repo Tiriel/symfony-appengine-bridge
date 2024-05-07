@@ -1,0 +1,20 @@
+{
+    "name": "tiriel/appengine-bridge",
+    "description": "Symfony Bridge for deployment on Google Cloud AppEngine",
+    "type": "library",
+    "require": {
+        "symfony/http-kernel": "^7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tiriel\\AppengineBridge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benjamin Zaslavsky",
+            "email": "benjamin.zaslavsky@gmail.com"
+        }
+    ]
+}
